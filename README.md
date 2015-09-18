@@ -1,5 +1,6 @@
 # readme-hijacked-by-quest-4-api-in-a-dot-txt.markdown
 
+```js
 import got from 'got'
 import koa from 'koa'
 import cors from 'kcors'
@@ -59,3 +60,4 @@ POST `/launch` (function*() {
 })
 
 app.listen(8080)
+```
